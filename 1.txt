@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-sadasd sss
-=======
-sadasd sss kjhk h
->>>>>>> a7281f22d1425d3b9358c34551d577bef902a864
+
+sadasd kjhk sss h
